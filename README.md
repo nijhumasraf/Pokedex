@@ -1,0 +1,1 @@
+A beginner-friendly Python project where I learned to use the requests library by fetching Pokémon data from the PokeAPI. This project was inspired by a YouTube tutorial and helped me understand API calls, JSON parsing, and HTTP response handling.
